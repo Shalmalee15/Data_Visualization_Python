@@ -1,3 +1,3 @@
 # Data_Visualization_Python
-MQ Meet Exercises
+MQ Meet Exercises. 
 Exercises are available on request. 
